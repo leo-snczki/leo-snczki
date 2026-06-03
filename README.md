@@ -47,7 +47,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Data%20and%20Geospatial&fontSize=28&fontColor=33cea8" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Database%20and%20GIS&fontSize=28&fontColor=33cea8" />
 </p>
 
 <p align="center">
