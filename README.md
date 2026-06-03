@@ -18,7 +18,9 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 
 ## 💻 Tech Stack
 
-<h3 align="center">Languages</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Core%20Languages&fontSize=28&fontColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -33,7 +35,9 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<h3 align="center">Backend, Web, and Frameworks</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Backend%20%26%20Web%20Stack&fontSize=28&fontColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -42,7 +46,9 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<h3 align="center">Databases and GIS</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Data%20%26%20Geospatial&fontSize=28&fontColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -51,7 +57,9 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
   <img src="https://img.shields.io/badge/PostGIS-336791.svg?style=for-the-badge&logo=postgis&logoColor=white" />
 </p>
 
-<h3 align="center">Infrastructure and DevOps</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Infrastructure%20%26%20DevOps&fontSize=28&fontColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
@@ -63,14 +71,18 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
   <img src="https://img.shields.io/badge/WSL-4D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<h3 align="center">Desktop UI Development</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Desktop%20GUI%20Development&fontSize=28&fontColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tkinter-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Forms-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-<h3 align="center">Tools, Platforms, and Hardware</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Tools%20%26%20Platforms&fontSize=28&fontColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe_InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
@@ -81,7 +93,9 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
   <img src="https://img.shields.io/badge/GitHub%20Codespaces-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<h3 align="center">Operating Systems</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Systems%20%26%20Environments&fontSize=28&fontColor=00D2FF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white" />
