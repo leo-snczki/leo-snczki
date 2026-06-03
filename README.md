@@ -19,7 +19,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Core%20Languages&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Core%20Languages&fontSize=28&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Backend%20and%20Web%20Stack&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Backend%20and%20Web%20Stack&fontSize=28&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Data%20and%20Geospatial&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Data%20and%20Geospatial&fontSize=28&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Infrastructure%20and%20DevOps&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Infrastructure%20and%20DevOps&fontSize=28&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Desktop%20GUI%20Development&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Desktop%20GUI%20Development&fontSize=28&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Tools%20and%20Platforms&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Tools%20and%20Platforms&fontSize=28&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Systems%20and%20Environments&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Systems%20and%20Environments&fontSize=28&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -102,7 +102,6 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
   <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
-
 ## 📊 Git Stats
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-snczki&theme=gotham)]()
