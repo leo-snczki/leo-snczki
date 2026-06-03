@@ -1,51 +1,98 @@
-# 💫 About Me:
-I'm a tech-savvy developer with a focus on automation, but I also work with frontend, infrastructure, and integrations. I enjoy creating efficient, stable, and well-thought-out solutions, especially those involving APIs, proxies, and containerized, version locked environments.
+# 💫 Welcome to my development ecosystem!
 
+<p align="center">
+  <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Automation+%26+Scripting;Build+%26+Deploy;Python+%26+NixOS+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosnczki_business@outlook.com) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-zelenski-998899206)
+I'm a tech-savvy developer focused on automation and backend development, while also working across frontend, infrastructure, and integrations.
+I enjoy building efficient, stable, and well-thought-out solutions, especially those involving APIs, proxies and containerized, version locked environments.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+- 🎓 I’m currently a student at **EPBJC in Lisbon**
+- 💼 I’m currently doing an internship
+- 💬 Ask me about **Python, NixOS, and network architecture**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leo-snczki&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=leo-snczki&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-snczki&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosnczki_business@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardozelenski)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=leo-snczki&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+## 💻 Tech Stack
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=leo-snczki&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<h3 align="center">Backend, Web, and Frameworks</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<h3 align="center">Databases and GIS</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791.svg?style=for-the-badge&logo=postgis&logoColor=white" />
+</p>
+
+<h3 align="center">Infrastructure and DevOps</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nix-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D.svg?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+<h3 align="center">Desktop UI Development</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tkinter-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+
+<h3 align="center">Tools, Platforms, and Hardware</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe_InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000.svg?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Codespaces-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<h3 align="center">Operating Systems</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" />
+</p>
 
 ## 📊 Git Stats
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=leo-snczki&theme=gotham)]()
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-snczki&theme=gotham)]()
 
----
-[![](https://visitcount.itsvg.in/api?id=leo-snczki&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💰 Support Me
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/leosnczki) 
-
-  
-<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/leosnczki)
