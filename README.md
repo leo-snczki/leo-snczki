@@ -36,7 +36,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Backend%20%26%20Web%20Stack&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Backend%20and%20Web%20Stack&fontSize=28&fontColor=00D2FF" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Data%20%26%20Geospatial&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Data%20and%20Geospatial&fontSize=28&fontColor=00D2FF" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Infrastructure%20%26%20DevOps&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Infrastructure%20and%20DevOps&fontSize=28&fontColor=00D2FF" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Tools%20%26%20Platforms&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Tools%20and%20Platforms&fontSize=28&fontColor=00D2FF" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Systems%20%26%20Environments&fontSize=28&fontColor=00D2FF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=55&section=header&text=Systems%20and%20Environments&fontSize=28&fontColor=00D2FF" />
 </p>
 
 <p align="center">
