@@ -9,8 +9,7 @@
 I'm a tech-savvy developer focused on automation and backend development, while also working across frontend, infrastructure, and integrations.
 I enjoy building efficient, stable, and well-thought-out solutions, especially those involving APIs, proxies and containerized, version locked environments.
 
-- 🎓 I’m currently a student at **EPBJC in Lisbon**
-- 💼 I’m currently finishing my PAP (Prova de Aptidão Profissional)
+- 💼 I’m currently looking for a job!
 - 💬 Ask me about **Python, NixOS, and network architecture**
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosnczki_business@outlook.com)
