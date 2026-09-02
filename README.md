@@ -104,11 +104,6 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
   <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" />
 </p>
 
-
-## 📊 Git Stats
-
-[![GitHub Activity Graph]()]()
-
 ## 💰 Support Me
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/leosnczki)
