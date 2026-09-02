@@ -107,7 +107,7 @@ I enjoy building efficient, stable, and well-thought-out solutions, especially t
 
 ## 📊 Git Stats
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leo-snczki&theme=gotham)]()
+[![GitHub Activity Graph]()]()
 
 ## 💰 Support Me
 
