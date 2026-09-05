@@ -19,7 +19,7 @@ Gerado a partir do GitSkins e depois **editado à mão** (texto do bio, secção
 
 | Ficheiro | URL original |
 | --- | --- |
-| `assets/typing/typing.svg` | `https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6cbed1&center=true&vCenter=true&width=500&lines=Software+Developer;Automation+%26+Scripting;Build+%26+Deploy;Python+%26+NixOS+Enthusiast` |
+| `assets/typing/typing.svg` | `https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6cbed1&center=true&vCenter=true&width=500&lines=Leonardo+Zelenski;Software+Developer;Automation+%26+Scripting;Build+%26+Deploy;Python+%26+NixOS+Enthusiast` |
 
 ## headers/
 
