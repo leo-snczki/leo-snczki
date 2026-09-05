@@ -86,10 +86,6 @@ Gerado a partir do GitSkins e depois **editado à mão** (texto do bio, secção
 
 ## portrait/
 
-Não vem de nenhum URL. `source.jpg` é a foto original; `portrait.svg` é gerado
-localmente por `scripts/dotify.py`, clonado de
-`https://github.com/gargibhardwaj24/gargibhardwaj24`.
-
 ```
 python scripts/dotify.py assets/portrait/source.jpg -o assets/portrait/portrait --cols 100 --equalize --detail 0.5 --color --reveal --circle
 ```
