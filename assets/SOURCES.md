@@ -92,6 +92,11 @@ python scripts/dotify.py assets/portrait/source.jpg -o assets/portrait/portrait 
 
 Requer Pillow (`python -m pip install --user Pillow`).
 
+Normalmente não precisas de correr isto à mão: o workflow
+`.github/workflows/portrait.yml` sonda o teu avatar do GitHub uma vez por dia,
+compara os bytes com `source.jpg` e, se a foto tiver mudado, regenera o SVG e
+faz commit sozinho.
+
 ## Deliberadamente remoto
 
 | Onde | URL |
