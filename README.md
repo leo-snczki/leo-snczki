@@ -1,5 +1,3 @@
-# 💫 Welcome to my development ecosystem!
-
 <p align="center">
   <!-- Retrato em matriz de pontos, gerado por scripts/dotify.py a partir de
        assets/portrait/source.png. Modo a cores: um só ficheiro serve os dois
@@ -10,18 +8,20 @@
 </p>
 
 <p align="center">
-  <img src="assets/hero.svg" alt="leo-snczki: Software Developer, Automation & Scripting" width="860" />
-</p>
-
-<p align="center">
   <a href="#">
-      <img src="assets/typing/typing.svg" alt="Typing SVG" />
+    <img src="assets/typing/typing.svg" alt="Typing SVG" />
   </a>
 </p>
 
-[![Email](assets/badges/email.svg)](mailto:leosnczki_business@outlook.com)
-[![LinkedIn](assets/badges/linkedin.svg)](https://linkedin.com/in/leonardozelenski)
-[![LeetCode](assets/badges/leetcode.svg)](https://leetcode.com/u/leo-snczki/)
+<p align="center">
+  <a href="mailto:leosnczki_business@outlook.com"><img src="assets/badges/email.svg" alt="Email" /></a>
+  <a href="https://linkedin.com/in/leonardozelenski"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/leo-snczki/"><img src="assets/badges/leetcode.svg" alt="LeetCode" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/hero.svg" alt="leo-snczki: Software Developer, Automation & Scripting" width="860" />
+</p>
 
 ## 💻 Tech Stack
 
