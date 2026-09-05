@@ -20,6 +20,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leo-snczki&style=flat&color=6cbed1&label=profile+views" alt="profile views" />
+</p>
+
+<p align="center">
   <img src="assets/hero.svg" alt="leo-snczki: Software Developer, Automation & Scripting" width="860" />
 </p>
 

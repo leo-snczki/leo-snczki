@@ -95,3 +95,13 @@ python scripts/dotify.py assets/portrait/source.png -o assets/portrait/portrait 
 ```
 
 Requer Pillow (`python -m pip install --user Pillow`).
+
+## Deliberadamente remoto
+
+| Onde | URL |
+| --- | --- |
+| contador de visitas | `https://komarev.com/ghpvc/?username=leo-snczki&style=flat&color=6cbed1&label=profile+views` |
+
+O servidor responde com `Cache-Control: no-cache, no-store, must-revalidate` e é o
+próprio carregamento da imagem que incrementa o contador. Guardá-lo em `assets/`
+congelava-o no valor do momento em que fosse descarregado.
