@@ -1,8 +1,8 @@
 <p align="center">
   <!-- Retrato em matriz de pontos, gerado por scripts/dotify.py a partir de
-       assets/portrait/source.png. Modo a cores: um só ficheiro serve os dois
+       assets/portrait/source.jpg. Modo a cores: um só ficheiro serve os dois
        temas do GitHub. Regenerar com:
-       python scripts/dotify.py assets/portrait/source.png -o assets/portrait/portrait --cols 100 --equalize --detail 0.5 --color --reveal
+       python scripts/dotify.py assets/portrait/source.jpg -o assets/portrait/portrait --cols 100 --equalize --detail 0.5 --color --reveal
   -->
   <img src="assets/portrait/portrait.svg" width="300" alt="leo-snczki, em matriz de pontos" />
 </p>
