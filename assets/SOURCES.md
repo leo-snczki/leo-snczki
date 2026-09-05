@@ -91,7 +91,7 @@ localmente por `scripts/dotify.py`, clonado de
 `https://github.com/gargibhardwaj24/gargibhardwaj24`.
 
 ```
-python scripts/dotify.py assets/portrait/source.jpg -o assets/portrait/portrait --cols 100 --equalize --detail 0.5 --color --reveal
+python scripts/dotify.py assets/portrait/source.jpg -o assets/portrait/portrait --cols 100 --equalize --detail 0.5 --color --reveal --circle
 ```
 
 Requer Pillow (`python -m pip install --user Pillow`).
