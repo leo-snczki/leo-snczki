@@ -1,16 +1,14 @@
 # 💫 Welcome to my development ecosystem!
 
 <p align="center">
-  <a href="#">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6cbed1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Automation+%26+Scripting;Build+%26+Deploy;Python+%26+NixOS+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="assets/hero.svg" alt="leo-snczki: Software Developer, Automation & Scripting" width="860" />
 </p>
 
-I'm a tech-savvy developer focused on automation and backend development, while also working across frontend, infrastructure, and integrations.
-I enjoy building efficient, stable, and well-thought-out solutions, especially those involving APIs, proxies and containerized, version locked environments.
-
-- 💼 I’m currently looking for a job!
-- 💬 Ask me about **Python, NixOS, and network architecture**
+<p align="center">
+  <a href="#">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6cbed1&center=true&vCenter=true&width=500&lines=Software+Developer;Automation+%26+Scripting;Build+%26+Deploy;Python+%26+NixOS+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leosnczki_business@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardozelenski)
