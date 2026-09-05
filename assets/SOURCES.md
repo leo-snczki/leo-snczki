@@ -79,6 +79,19 @@ Gerado a partir do GitSkins e depois **editado à mão** (texto do bio, secção
 | `assets/badges/nixos.svg` | `https://img.shields.io/badge/NixOS-5277C3.svg?style=for-the-badge&logo=nixos&logoColor=white` |
 | `assets/badges/macos.svg` | `https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=apple&logoColor=white` |
 | `assets/badges/windows-11.svg` | `https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white` |
-| `assets/badges/email.svg` | `https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white` |
-| `assets/badges/linkedin.svg` | `https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white` |
+| `assets/badges/email.svg` | `https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white` |
+| `assets/badges/linkedin.svg` | `https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white` |
 | `assets/badges/buy-me-a-coffee.svg` | `https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black` |
+| `assets/badges/leetcode.svg` | `https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black` |
+
+## portrait/
+
+Não vem de nenhum URL. `source.png` é a foto original; `portrait.svg` é gerado
+localmente por `scripts/dotify.py`, clonado de
+`https://github.com/gargibhardwaj24/gargibhardwaj24`.
+
+```
+python scripts/dotify.py assets/portrait/source.png -o assets/portrait/portrait --cols 100 --equalize --detail 0.5 --color --reveal
+```
+
+Requer Pillow (`python -m pip install --user Pillow`).

@@ -1,6 +1,15 @@
 # 💫 Welcome to my development ecosystem!
 
 <p align="center">
+  <!-- Retrato em matriz de pontos, gerado por scripts/dotify.py a partir de
+       assets/portrait/source.png. Modo a cores: um só ficheiro serve os dois
+       temas do GitHub. Regenerar com:
+       python scripts/dotify.py assets/portrait/source.png -o assets/portrait/portrait --cols 100 --equalize --detail 0.5 --color --reveal
+  -->
+  <img src="assets/portrait/portrait.svg" width="300" alt="leo-snczki, em matriz de pontos" />
+</p>
+
+<p align="center">
   <img src="assets/hero.svg" alt="leo-snczki: Software Developer, Automation & Scripting" width="860" />
 </p>
 
@@ -12,6 +21,7 @@
 
 [![Email](assets/badges/email.svg)](mailto:leosnczki_business@outlook.com)
 [![LinkedIn](assets/badges/linkedin.svg)](https://linkedin.com/in/leonardozelenski)
+[![LeetCode](assets/badges/leetcode.svg)](https://leetcode.com/u/leo-snczki/)
 
 ## 💻 Tech Stack
 
