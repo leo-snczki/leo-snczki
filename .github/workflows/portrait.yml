@@ -1,21 +1,16 @@
 name: Retrato pontilhado
 
-# O GitHub não emite nenhum evento quando se troca a foto de perfil, por isso
-# não dá para reagir a essa mudança diretamente: o workflow sonda o avatar uma
-# vez por dia (04:17 UTC) e só faz alguma coisa quando os bytes mudam mesmo.
+# O GitHub não emite nenhum evento quando se troca a foto de perfil, por
+# isso não dá para reagir a essa mudança automaticamente. Este workflow só
+# corre quando o mandas correr, depois de trocares a foto:
+#   Actions -> Retrato pontilhado -> Run workflow
 on:
-  schedule:
-    - cron: '17 4 * * *'
   workflow_dispatch:
     inputs:
       force:
         description: 'Regerar mesmo que o avatar não tenha mudado'
         type: boolean
         default: false
-  push:
-    paths:
-      - 'scripts/dotify.py'
-      - '.github/workflows/portrait.yml'
 
 permissions:
   contents: write
@@ -54,8 +49,7 @@ jobs:
           antigo=$(sha256sum "$SOURCE" 2>/dev/null | cut -d' ' -f1 || echo ausente)
           echo "novo=$novo"
           echo "antigo=$antigo"
-          if [ "$novo" = "$antigo" ] && [ "${{ inputs.force }}" != "true" ] \
-             && [ "${{ github.event_name }}" != "push" ]; then
+          if [ "$novo" = "$antigo" ] && [ "${{ inputs.force }}" != "true" ]; then
             echo "mudou=false" >> "$GITHUB_OUTPUT"
             echo "O avatar não mudou. Nada a fazer."
           else
